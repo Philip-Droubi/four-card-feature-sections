@@ -142,7 +142,7 @@ main .container .card {
   -ms-border-radius: 3px;
   -o-border-radius: 3px;
   box-shadow: 0px 8px 10px 1px hsl(229deg 16% 65% / 39%);
-  height: 230px;
+  height: 244px;
   position: relative;
 }
 main .container .card h4 {
