@@ -19,10 +19,9 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  font-family: sans-serif;
+  font-family: 'Poppins', sans-serif;
   min-height: 100vh;
   background-color: var(--Very-Light-Gray);
-  /* background-color: var(--Neutral-Very-Dark-Blue); */
 }
 .container {
   padding-left: 30px;
